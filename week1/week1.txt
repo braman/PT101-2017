@@ -1,0 +1,23 @@
+ Week 1 - 21/01/17
+============================================
+1. Introduction to Programming Technologies
+1.1 What this course is about?
+1.2 How the course will be studies?
+1.3 How the course will be graded?  
+1.4 What will you get at the end of the course?
+
+2. Course prerequisites
+2.1 Basic programming knowledge
+2.2 Basic logic knowledge
+2.3 Pre-installed development environment[1]
+2.4 Course materials
+2.5 Academic honesty
+
+3. Your first "Hello World"
+3.1 Writing the first sample code using Java programming language
+3.2 Understanding the written code
+3.3 Customizing the code
+============================================
+References:
+
+[1] https://www3.ntu.edu.sg/home/ehchua/programming/howto/JDK_Howto.html
