@@ -1,0 +1,46 @@
+Week #2
+====================================================
+1. Chapter 2(end)
+1.1 How numbers are stored in the memory
+1.2 Arithmetical calculations(order and priority)
+1.3 Examples of arithmetical expressions:
+	6*8/12+6+2/2=?
+	10-6%5*3%2=?
+1.4 Condition statements (equality and relational operators)
+
+2. Chapter 3(Begin)
+2.1 Introduction to classes (example of GradeBook)
+2.2 public access modifier, method return type, method as a task, method header 
+2.3 Executing an application
+2.3 static method, new keywork, instance creation, constructor
+2.4 calling the display method, no argument method call
+2.5 Multiple class compilation and UML
+2.7 Method execution, parameters and arguments
+2.8 import statment, why System and String is not imported? Default package fully qualified class name.
+2.9 Instance variable
+2.9.1 local variables
+2.9.2 fields
+2.9.3 instance variable
+2.10 set and get methods
+2.11 public vs. private (data hiding) and return statement
+2.12 Default variable value
+2.13 set and get naming convention standart.
+2.14 primitive (boolean, byte, char, short, int, long, float and double) vs reference types (null - reference to nothing)
+2.15 default values for primitive instance variables and local variables. reference type variables method invocation
+2.16 constructor
+2.16.1 default constructor
+2.16.2 difference between constructor and method
+2.17 floating point numbers
+2.17.1 float - up to 7 digits after dot
+2.17.2 double - up to 15 digits after dot
+2.17.3 default type of floating point number
+2.17.4 java.math.BigDecimal
+2.18 introdution to GUI, simple diaglog boxes
+
+
+
+
+
+
+
+
