@@ -14,9 +14,9 @@ Week #2
 2.3 Executing an application
 2.3 static method, new keywork, instance creation, constructor
 2.4 calling the display method, no argument method call
-2.5 Multiple class compilation and UML
+2.5 Multiple class compilation and UML (unified model language)
 2.7 Method execution, parameters and arguments
-2.8 import statment, why System and String is not imported? Default package fully qualified class name.
+2.8 import statement, why System and String is not imported? Default package fully qualified class name.
 2.9 Instance variable
 2.9.1 local variables
 2.9.2 fields
@@ -31,7 +31,7 @@ Week #2
 2.16.1 default constructor
 2.16.2 difference between constructor and method
 2.17 floating point numbers
-2.17.1 float - up to 7 digits after dot
+2.17.1 float - up to 7 digits after dot 1.1234567, 1.123456789
 2.17.2 double - up to 15 digits after dot
 2.17.3 default type of floating point number
 2.17.4 java.math.BigDecimal
