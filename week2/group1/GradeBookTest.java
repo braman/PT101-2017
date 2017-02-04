@@ -8,9 +8,7 @@ public class GradeBookTest {
 		System.out.println("Enter course name:");
 		String courseName = in.nextLine();
 	
-		GradeBook gradeBook = new GradeBook();
-		
-		gradeBook.setCourseName(courseName);
+		GradeBook gradeBook = new GradeBook(courseName);
 		
 		gradeBook.displayMessage();
 		
