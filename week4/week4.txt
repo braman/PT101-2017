@@ -1,0 +1,30 @@
+Week 4
+======================
+1. Quiz results review (Q/A)
+2. Homework check
+3. Chapter 4:
+3.1 - principles of structured programming
+3.2 - algorithm (actions + order) or program control or control statements
+3.3 - pseudocode (or algorithm skeleton), an abstraction language between human, algorithm and real program
+3.4 control structure (Bohm and Jacopini research - sequence structure, the selection structure and the
+repetition structure)
+3.4.1 - sequence structure (UML activity diagram as an alternative to pseudocode)
+3.4.2 - selection statement(if, if ... else, switch), UML
+3.4.2.1 - single selection (one if)
+3.4.2.2 - double selection (if ... else)
+3.4.2.3 - multiple selection (switch)
+3.4.3 - repetition statement(or loops) - while, for , do ... while, UML
+3.4.4 - examples for all above statements, Dangling-else Problem, using code blocks
+3.4.5 - counter controlled repetition statement (or definite repetition), consider example 
+(pseudocode and java program)
+3.4.6 - sentinel controlled repetition or indefinite repetition
+(sentinel value = end of data entry)
+3.4.7 - implicit and explicit type casting for primitives
+3.4.8 - compound assignment operators (figure 4.16)
+3.5 - GUI - drawing lines
+
+
+
+
+
+
