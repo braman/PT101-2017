@@ -1,8 +1,11 @@
 Week 5 
 =========================
+0. Project titles
+
 Continue Ch.4:
 1.1 Compound assignment operators
 1.2 Increment and decrement operators
+
 Starting Ch.5:
 2.1 Counter controlled loops reviewed
 2.2 for statement detailed picture
@@ -22,4 +25,14 @@ Just as architects design buildings by employing the collective wisdom of their 
 so should programmers design programs.
 Single entry - Single exit
 Control statement stacking and nesting
+
+ex: 5.13, 5.12, 5.16
+ex. 5.17, 5.21
+
+HW:
+5.29
+ 5.32
+
+5.31
+5.30
 
