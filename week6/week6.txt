@@ -1,0 +1,20 @@
+Week 6 
+==========================
+0. Project titles
+1. Finish previous chapter
+2.1 Methods as modules (software reusability)
+2.2 Worker and boss
+2.3 Static methods and class Math and final constants
+static fields = class variables
+main method and cli
+2.4 method parameters, public keyword
+Variables should be declared as fields only if they’re required for use inmore than one method
+of the class or if the program should save their values between calls to the class’s methods.
+
+2.5 Calling method (3 ways)
+
+
+G1 HW: 6.14, 6.16, 6.17, 6.20, 6.22
+G2 HW: 6.15, 6.21, 6.23, 6.24, 6.25
+
+
