@@ -93,5 +93,17 @@ public class Board {
             }
         }
     }
+	
+	private boolean isPossible(int fx, int fy, int dx, int dy) {
+        if (figures[dx][dy] != null) {
+            return false;
+        }
+        
+        if (selectedFigure.getFigureType() == FigureType.R) {
+            return fx == dx || fy == dy;
+        }
+        
+        return false;
+    }
     
 }
