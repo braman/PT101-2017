@@ -8,5 +8,6 @@ public class GradeBookTest {
 		
 		gradeBook.displayMessage();
 		gradeBook.processGrades();
+		
 	}
 }

@@ -58,7 +58,39 @@ public class Board {
                 System.out.println();
             }
         } else {
-            //TODO: implement
+            int x = 0;
+            int y = 0;
+            
+            for (int i=0;i<figures.length;i++) {
+                for (int j=0;j<figures[i].length;j++) {
+                    if (figures[i][j] == selectedFigure) {
+                        y = i;
+                        x = j;
+                    }
+                }
+            }
+            
+            //System.out.printf("Current position: %d %d\n", x, y);
+            
+            
+            for (int i=figures.length - 1;i>=0;i--) {
+                System.out.printf("%-3d", i+1);
+                
+                for (int j=0;j<figures[i].length;j++) {
+                    if (isPossible(x, y, i, j)) {
+                        System.out.print("*  ");
+                    } else {
+                        
+                        if (figures[i][j] != null) {
+                            System.out.printf("%-3s", figures[i][j]);
+                        } else {
+                            System.out.print(".  ");
+                        }
+                    }
+                }
+                
+                System.out.println();
+            }
         }
     }
     
