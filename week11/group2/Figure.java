@@ -8,9 +8,16 @@ public class Figure {
         this.figureType = figureType;
     }
     
+    
+    public FigureType getFigureType() {
+        return figureType;
+    }
+    
     @Override
     public String toString() {
         return figureType.name();
     }
+    
+    
     
 }
