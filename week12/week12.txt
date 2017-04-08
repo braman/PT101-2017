@@ -1,0 +1,22 @@
+Week 12 
+====================================
+0. Quiz on Ch7. 10 minutes (15 minutes)
+1. Check your projects 40 minutes (for each 5 minutes)
+ name, project title, small introduction to project, project status
+ 
+2. Chapter 8 - Introduction
+2.1 Time1 class - public access modifier, private instance variables, default constructor
+set and get methods, throwing IllegalArgumentException exception, conditional operator (?:)
+2.2 Public, private and protected
+2.3 This reference
+2.4 Overloaded constructor
+2.5 Mutator and query methods, predicate methods
+2.6 Composition - has-a relationship
+2.7 Employee and EmployeeTest
+2.8 Enumerations as constants: Book and EnumTest
+2.9 Garbage collection and memory leaks
+2.10 static Class Members
+2.11 static import
+2.12 final instance variable
+2.13 Creating packes and jars
+2.14 package access
