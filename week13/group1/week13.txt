@@ -1,0 +1,14 @@
+Week 13 
+=======================
+0. Review previous lesson
+1. Finish Ch.8
+1.1 - static class members
+1.2 - static import 
+1.3 - creating packages
+2. New Ch. 9
+2.1 - OOP intro
+2.2 - Superclass and subclass
+2.3 - protected members
+2.4 - More examples on superclass and subclass
+2.5 - constructors in subclasses
+2.6 - Object class

@@ -1,0 +1,1 @@
+jar cvf time2.jar -C bin .
