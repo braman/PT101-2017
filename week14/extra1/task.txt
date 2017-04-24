@@ -1,0 +1,34 @@
+Create a Employees Directory:
+
+
+1. Create an Employee (select out of 4 types of Employee: Salaried, Hourly, Commision Base,
+	BasePlus Commission Based)
+2. Search Employee by first name and last name
+3. Display all employees and their earnings
+
+*Hint: use list, like:
+ArrayList<Employee> employees = new ArrayList<Employee>();	
+base class name should be: EmployeeDirectory
+	
+Example:
+Menu:
+1. Add Employee
+2. Search
+3. Display 
+
+Select 1:
+Please select employee type:
+1. Salaried
+2. Hourly
+3. ..
+4. ..
+
+
+Select 2:
+Enter search term:
+John
+
+Select 3:
+Display basic info + earnings
+
+
