@@ -1,0 +1,19 @@
+A. Create a abstract class Car which has information about the type of car 
+(this should be enum type called CarType and contain values like Hatchback, 
+SUV, Sedan, sport car, etc.), engine hourse power, color. 
+Create a non-zero constructor which will accept all this information.
+Example:
+abstract class Car {				enum CarType {
+	public data_type name;				....
+}									}
+
+B. Create a class called SportCar which will inherit from Car class and 
+should have properties like year of production, cost and abstract method 
+called getMaxSpeed which will return int type. Create an indirect
+child of Car class which will inherit from SportCar class called Bugatti.
+Bugatti class should have no-argument constructor and the color of one 
+should be red and year of production should be 2017, hourse power 1000,
+and max speed of one is 350.
+
+
+

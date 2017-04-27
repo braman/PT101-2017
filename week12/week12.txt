@@ -8,7 +8,7 @@ Week 12
 2.1 Time1 class - public access modifier, private instance variables, default constructor
 set and get methods, throwing IllegalArgumentException exception, conditional operator (?:)
 2.2 Public, private and protected
-2.3 This reference
+2.3 This reference - constructor overloading
 2.4 Overloaded constructor
 2.5 Mutator and query methods, predicate methods
 2.6 Composition - has-a relationship

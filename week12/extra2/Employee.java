@@ -14,6 +14,7 @@ class Employee {
 		this.hireDate = dateOfHire;
 	}
 	
+	@Override
 	public String toString() {
 		return String.format("%s, %s Hired: %s Birth: %s", 
 			firstName, lastName, hireDate, birthDate);
